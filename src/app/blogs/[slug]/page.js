@@ -40,7 +40,7 @@ export async function generateMetadata({ params }) {
       description: blog.description,
       url: siteMetadata.siteUrl + blog.url,
       siteName: siteMetadata.title,
-      locale: "pt_Br",
+      locale: siteMetadata.locale,
       type: "article",
       publishedTime: publishedAt,
       modifiedTime: modifiedAt,
