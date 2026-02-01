@@ -1,8 +1,8 @@
 "use client";
-import { createClientComponentClient } from "@supabase/auth-helpers-nextjs";
+import { createClient } from "@/src/utils/supabase/client";
 import React, { useEffect, useState } from "react";
 
-const supabase = createClientComponentClient();
+const supabase = createClient();
 
 const ViewCounter = ({ slug, noCount = false, showCount = true }) => {
   const [views, setViews] = useState(0);

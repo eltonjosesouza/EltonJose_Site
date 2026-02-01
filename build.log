@@ -1,0 +1,82 @@
+
+> developer-blog-starter-code@0.1.0 build
+> next build
+
+ ⚠ Disabling SWC Minifer will not be an option in the next major version. Please report any issues you may be experiencing to https://github.com/vercel/next.js/issues
+  ▲ Next.js 14.2.3
+  - Environments: .env.local
+
+   Creating an optimized production build ...
+Warning: Found 1 problems in 8 documents.
+
+ └── Error for 1 image fields. (Skipping documents)
+     
+     • "20240512_Explorando_o_Potencial_das_LLMs/index.mdx" with field "image: ../../public/blogs/8971c36d-439b-42c0-8620-b8b3b8b0c326.jpg" failed with Error: Could not determine image type
+     
+
+Generated 7 documents in .contentlayer
+ ⚠ For production Image Optimization with Next.js, the optional 'sharp' package is strongly recommended. Run 'npm i sharp', and Next.js will use it automatically for Image Optimization.
+Read more: https://nextjs.org/docs/messages/sharp-missing-in-production
+ ✓ Compiled successfully
+   Linting and checking validity of types ...
+   Collecting page data ...
+   Generating static pages (0/53) ...
+   Generating static pages (13/53) 
+   Generating static pages (26/53) 
+   Generating static pages (39/53) 
+ ✓ Generating static pages (53/53)
+   Finalizing page optimization ...
+   Collecting build traces ...
+
+Route (app)                                                      Size     First Load JS
+┌ ○ /                                                            2.52 kB         102 kB
+├ ○ /_not-found                                                  156 B          87.7 kB
+├ ○ /about                                                       549 B           100 kB
+├ ○ /apple-icon.png                                              0 B                0 B
+├ ● /blogs/[slug]                                                34.2 kB         141 kB
+├   ├ /blogs/20240129_Estrategias_Produtividade_Trabalho_Remoto
+├   ├ /blogs/20240201_carreira_de_tecnologia
+├   ├ /blogs/20240421_Entendendo_Llm
+├   └ [+4 more paths]
+├ ● /categories/[slug]                                           195 B          99.7 kB
+├   ├ /categories/all
+├   ├ /categories/produtividade
+├   ├ /categories/trabalho-remoto
+├   └ [+34 more paths]
+├ ○ /contact                                                     154 kB          255 kB
+└ ○ /manifest.webmanifest                                        0 B                0 B
++ First Load JS shared by all                                    87.6 kB
+  ├ chunks/23-61928cabb406bd8d.js                                31.6 kB
+  ├ chunks/fd9d1056-13fa79ce9a296726.js                          54 kB
+  └ other shared chunks (total)                                  2 kB
+
+
+○  (Static)  prerendered as static content
+●  (SSG)     prerendered as static HTML (uses getStaticProps)
+
+
+> developer-blog-starter-code@0.1.0 postbuild
+> next-sitemap
+
+✨ [next-sitemap] Loading next-sitemap config: file:///srv/dev/EltonJose_Site/next-sitemap.config.js
+✅ [next-sitemap] Generation completed
+┌───────────────┬────────┐
+│ (index)       │ Values │
+├───────────────┼────────┤
+│ indexSitemaps │ 1      │
+│ sitemaps      │ 1      │
+└───────────────┴────────┘
+-----------------------------------------------------
+ SITEMAP INDICES 
+-----------------------------------------------------
+
+   ○ https://www.eltonjose.com.br/sitemap.xml
+
+
+-----------------------------------------------------
+ SITEMAPS 
+-----------------------------------------------------
+
+   ○ https://www.eltonjose.com.br/sitemap-0.xml
+
+

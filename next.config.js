@@ -3,6 +3,8 @@
 const {withContentlayer} = require("next-contentlayer")
 
 const nextConfig = {
+    output: 'standalone',
+    swcMinify: false,
     compiler:{
         removeConsole: true,
     }

@@ -31,7 +31,7 @@ export const metadata = {
     url: siteMetadata.siteUrl,
     siteName: siteMetadata.title,
     images: [siteMetadata.socialBanner],
-    locale: "en_US",
+    locale: siteMetadata.locale,
     type: "website",
   },
   robots: {
@@ -55,7 +55,7 @@ export const metadata = {
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="en">
+    <html lang={siteMetadata.language}>
       <body
         className={cx(
           inter.variable,
@@ -70,6 +70,29 @@ export default function RootLayout({ children }) {
     document.documentElement.classList.remove('dark')
   }`}
         </Script>
+        <Script
+          id="structured-data"
+          strategy="afterInteractive"
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "WebSite",
+              "name": siteMetadata.title,
+              "url": siteMetadata.siteUrl,
+              "author": {
+                "@type": "Person",
+                "name": siteMetadata.author,
+                "url": siteMetadata.siteUrl,
+                "sameAs": [
+                  siteMetadata.github,
+                  siteMetadata.linkedin,
+                  siteMetadata.twitter
+                ]
+              }
+            })
+          }}
+        />
         <Header />
         {children}
         <Footer />
