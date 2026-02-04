@@ -53,6 +53,11 @@ export const metadata = {
     title: siteMetadata.title,
     images: [siteMetadata.socialBanner],
   },
+  verification: {
+    other: {
+      "google-adsense-account": "ca-pub-5240361910984411",
+    },
+  },
 };
 
 export default function RootLayout({ children }) {
