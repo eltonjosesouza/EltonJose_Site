@@ -55,6 +55,7 @@ const Header = () => {
         <Link href="/" className="mr-2">Home</Link>
         <Link href="/about" className="mx-2">Sobre</Link>
         <Link href="/contact" className="mx-2">Contato</Link>
+        <Link href="/courses" className="mx-2">Cursos</Link>
         <button onClick={() => setMode(mode === "light" ? "dark" : "light")}
           className={cx("w-6 h-6 ease ml-2 flex items-center justify-center rounded-full p-1", mode === "light" ? "bg-dark text-light" :
             "bg-light text-dark")}
@@ -72,6 +73,7 @@ const Header = () => {
         <Link href="/" className="mr-2">Home</Link>
         <Link href="/about" className="mx-2">Sobre</Link>
         <Link href="/contact" className="mx-2">Contato</Link>
+        <Link href="/courses" className="mx-2">Cursos</Link>
         <button onClick={() => setMode(mode === "light" ? "dark" : "light")}
           className={cx("w-6 h-6 ease ml-2 flex items-center justify-center rounded-full p-1", mode === "light" ? "bg-dark text-light" :
             "bg-light text-dark")}

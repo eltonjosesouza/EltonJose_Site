@@ -5,6 +5,8 @@ import Header from "@/src/components/Header";
 import Footer from "../components/Footer";
 import siteMetadata from "../utils/siteMetaData";
 import Script from "next/script";
+import { MonetizationProvider } from "@/src/components/monetization/MonetizationContext";
+import AdBanner from "@/src/components/monetization/AdBanner";
 
 const inter = Inter({
   subsets: ["latin"],
@@ -93,9 +95,18 @@ export default function RootLayout({ children }) {
             })
           }}
         />
-        <Header />
-        {children}
-        <Footer />
+        <Script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5240361910984411"
+          crossOrigin="anonymous"
+          strategy="afterInteractive"
+        />
+        <MonetizationProvider>
+          <Header />
+          <AdBanner placement="header" />
+          {children}
+          <Footer />
+        </MonetizationProvider>
       </body>
     </html>
   );
