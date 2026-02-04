@@ -5,13 +5,16 @@ import siteMetadata from "@/src/utils/siteMetaData";
 import { allBlogs } from "contentlayer/generated";
 import { slug } from "github-slugger";
 import Image from "next/image";
+import { filterBlogs } from "@/src/utils";
 
 export async function generateStaticParams() {
-  return allBlogs.map((blog) => ({ slug: blog._raw.flattenedPath }));
+  const filteredBlogs = filterBlogs(allBlogs);
+  return filteredBlogs.map((blog) => ({ slug: blog._raw.flattenedPath }));
 }
 
 export async function generateMetadata({ params }) {
-  const blog = allBlogs.find((blog) => blog._raw.flattenedPath === params.slug);
+  const filteredBlogs = filterBlogs(allBlogs);
+  const blog = filteredBlogs.find((blog) => blog._raw.flattenedPath === params.slug);
   if (!blog) {
     return;
   }
@@ -57,7 +60,8 @@ export async function generateMetadata({ params }) {
 }
 
 export default function BlogPage({ params }) {
-  const blog = allBlogs.find((blog) => blog._raw.flattenedPath === params.slug);
+  const filteredBlogs = filterBlogs(allBlogs);
+  const blog = filteredBlogs.find((blog) => blog._raw.flattenedPath === params.slug);
 
   if (!blog) {
     return null;
@@ -107,17 +111,19 @@ export default function BlogPage({ params }) {
           </h1>
         </div>
         <div className="absolute top-0 left-0 right-0 bottom-0 h-full bg-dark/60 dark:bg-dark/40" />
-        <Image
-          src={blog.image.filePath.replace("../public", "")}
-          placeholder="blur"
-          blurDataURL={blog.image.blurhashDataUrl}
-          alt={blog.title}
-          width={blog.image.width}
-          height={blog.image.height}
-          className="aspect-square w-full h-full object-cover object-center"
-          priority
-          sizes="100vw"
-        />
+          {blog.image && (
+            <Image
+              src={blog.image.filePath.replace("../public", "")}
+              placeholder="blur"
+              blurDataURL={blog.image.blurhashDataUrl}
+              alt={blog.title}
+              width={blog.image.width}
+              height={blog.image.height}
+              className="aspect-square w-full h-full object-cover object-center"
+              priority
+              sizes="100vw"
+            />
+          )}
       </div>
       <BlogDetails blog={blog} slug={params.slug} />
 

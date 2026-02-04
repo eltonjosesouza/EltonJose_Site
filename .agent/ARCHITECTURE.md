@@ -8,9 +8,9 @@
 
 Antigravity Kit is a modular system consisting of:
 
-- **20 Specialist Agents** - Role-based AI personas
+- **21 Specialist Agents** - Role-based AI personas
 - **36 Skills** - Domain-specific knowledge modules
-- **11 Workflows** - Slash command procedures
+- **15 Workflows** - Slash command procedures
 
 ---
 
@@ -19,16 +19,16 @@ Antigravity Kit is a modular system consisting of:
 ```plaintext
 .agent/
 ├── ARCHITECTURE.md          # This file
-├── agents/                  # 20 Specialist Agents
+├── agents/                  # 21 Specialist Agents
 ├── skills/                  # 36 Skills
-├── workflows/               # 11 Slash Commands
+├── workflows/               # 15 Slash Commands
 ├── rules/                   # Global Rules
 └── scripts/                 # Master Validation Scripts
 ```
 
 ---
 
-## 🤖 Agents (20)
+## 🤖 Agents (21)
 
 Specialist AI personas for different domains.
 
@@ -36,6 +36,7 @@ Specialist AI personas for different domains.
 | ------------------------ | -------------------------- | -------------------------------------------------------- |
 | `orchestrator`           | Multi-agent coordination   | parallel-agents, behavioral-modes                        |
 | `project-planner`        | Discovery, task planning   | brainstorming, plan-writing, architecture                |
+| `content-creator`        | Technical blog writing     | seo-fundamentals, documentation-templates                |
 | `frontend-specialist`    | Web UI/UX                  | frontend-design, react-best-practices, tailwind-patterns |
 | `backend-specialist`     | API, business logic        | api-patterns, nodejs-best-practices, database-design     |
 | `database-architect`     | Schema, SQL                | database-design, prisma-expert                           |
@@ -176,15 +177,19 @@ Slash command procedures. Invoke with `/command`.
 | ---------------- | ------------------------ |
 | `/brainstorm`    | Socratic discovery       |
 | `/create`        | Create new features      |
+| `/create-blog-post`  | Create new post          |
 | `/debug`         | Debug issues             |
 | `/deploy`        | Deploy application       |
 | `/enhance`       | Improve existing code    |
 | `/orchestrate`   | Multi-agent coordination |
 | `/plan`          | Task breakdown           |
 | `/preview`       | Preview changes          |
+| `/publish-blog-post` | Publish post to prod     |
 | `/status`        | Check project status     |
 | `/test`          | Run tests                |
 | `/ui-ux-pro-max` | Design with 50 styles    |
+| `/validate-banners`| Check ad placement       |
+| `/validate-images` | Check/Gen blog images    |
 
 ---
 
@@ -266,9 +271,9 @@ For details, see [scripts/README.md](scripts/README.md)
 
 | Metric              | Value                         |
 | ------------------- | ----------------------------- |
-| **Total Agents**    | 20                            |
+| **Total Agents**    | 21                            |
 | **Total Skills**    | 36                            |
-| **Total Workflows** | 11                            |
+| **Total Workflows** | 15                            |
 | **Total Scripts**   | 2 (master) + 18 (skill-level) |
 | **Coverage**        | ~90% web/mobile development   |
 

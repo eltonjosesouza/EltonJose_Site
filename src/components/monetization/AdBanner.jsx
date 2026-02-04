@@ -37,6 +37,7 @@ const AdBanner = ({ placement = "header" }) => {
     header: "w-full h-24 bg-gray-100 dark:bg-gray-800 flex items-center justify-center my-4 rounded-md border border-gray-200 dark:border-gray-700",
     sidebar: "w-full h-64 bg-gray-100 dark:bg-gray-800 flex items-center justify-center my-4 rounded-md border border-gray-200 dark:border-gray-700",
     "article-bottom": "w-full h-32 bg-gray-100 dark:bg-gray-800 flex items-center justify-center my-8 rounded-md border border-gray-200 dark:border-gray-700",
+    content: "w-full h-auto min-h-[250px] bg-gray-50 dark:bg-gray-900 flex items-center justify-center my-8 rounded-md border border-gray-200 dark:border-gray-700",
   };
 
 

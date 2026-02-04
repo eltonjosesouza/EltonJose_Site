@@ -2,6 +2,7 @@ import { allBlogs } from "@/.contentlayer/generated";
 import BlogLayoutThree from "@/src/components/Blog/BlogLayoutThree";
 import Categories from "@/src/components/Blog/Categories";
 import GithubSlugger, { slug } from "github-slugger";
+import { filterBlogs } from "@/src/utils";
 
 const slugger = new GithubSlugger();
 
@@ -9,7 +10,10 @@ export async function generateStaticParams() {
   const categories = [];
   const paths = [{ slug: "all" }];
 
-  allBlogs.map((blog) => {
+  const filteredBlogs = filterBlogs(allBlogs);
+
+  filteredBlogs.map((blog) => {
+  // isPublished check is now redundant but kept for safety or if filterBlogs logic changes
     if (blog.isPublished) {
       blog.tags.map((tag) => {
         let slugified = slugger.slug(tag);
@@ -34,7 +38,8 @@ export async function generateMetadata({ params }) {
 
 const CategoryPage = ({ params }) => {
   const allCategories = ["all"];
-  const blogs = allBlogs.filter((blog) => {
+  const filteredBlogs = filterBlogs(allBlogs);
+  const blogs = filteredBlogs.filter((blog) => {
     return blog.tags.some((tag) => {
       const slugified = slug(tag);
       if (!allCategories.includes(slugified)) {
