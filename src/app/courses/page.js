@@ -16,7 +16,7 @@ export default function CoursesPage() {
       <h1 className="text-4xl font-bold capitalize  text-dark dark:text-light">
         Cursos e Materiais
       </h1>
-      <p className="mt-4 text-lg text-gray-600 dark:text-gray-300">
+      <p className="mt-4 text-lg text-gray-600 dark:text-white">
         Conhecimento direto do campo de batalha. Sem enrolação.
       </p>
 
@@ -27,10 +27,10 @@ export default function CoursesPage() {
           ))
         ) : (
           <div className="col-span-full text-center py-10">
-            <p className="text-xl text-gray-500 dark:text-gray-100 font-medium">
+              <p className="text-xl text-gray-500 dark:text-white font-medium">
               🚀 Em breve novos cursos e materiais exclusivos!
             </p>
-            <p className="text-sm text-gray-400 dark:text-gray-300 mt-2">
+              <p className="text-sm text-gray-400 dark:text-white mt-2">
               Enquanto isso, apoie o trabalho para manter o blog no ar.
             </p>
           </div>
