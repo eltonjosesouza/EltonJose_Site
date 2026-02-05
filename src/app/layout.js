@@ -62,7 +62,7 @@ export const metadata = {
 
 export default function RootLayout({ children }) {
   return (
-    <html lang={siteMetadata.language}>
+    <html lang={siteMetadata.language} suppressHydrationWarning>
       <body
         className={cx(
           inter.variable,

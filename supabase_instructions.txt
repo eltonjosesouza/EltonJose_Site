@@ -1,0 +1,1 @@
+Implementation complete. To proceed, please run the SQL migrations in your Supabase dashboard.

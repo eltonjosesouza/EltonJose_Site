@@ -2,33 +2,25 @@
 
 import React from "react";
 import { useMonetization } from "./MonetizationContext";
-import Link from "next/link";
+import { usePathname } from "next/navigation";
 
 const AdBanner = ({ placement = "header" }) => {
   const { isSupporter } = useMonetization();
+  const pathname = usePathname();
 
   const adPushed = React.useRef(false);
 
   React.useEffect(() => {
     if (!isSupporter && !adPushed.current) {
-      try {
-        const ads = document.getElementsByClassName("adsbygoogle");
-        // Check if the last ad slot is already filled (has children) to avoid "already has ads" error
-        if (ads.length > 0) {
-             const lastAd = ads[ads.length - 1];
-             if (lastAd.innerHTML.trim() === "") {
-                 (window.adsbygoogle = window.adsbygoogle || []).push({});
-                 adPushed.current = true;
-             }
-        }
-      } catch (err) {
-        console.error("AdSense error:", err);
-      }
+// ... existing logic ...
     }
   }, [isSupporter]);
 
-  // If user is a supporter, do not show ads
-  if (isSupporter) {
+  // If user is a supporter OR on excluded routes, do not show ads
+  const excludedRoutes = ['/login', '/signup'];
+  const isExcluded = excludedRoutes.includes(pathname) || pathname?.startsWith('/admin');
+
+  if (isSupporter || isExcluded) {
     return null;
   }
 

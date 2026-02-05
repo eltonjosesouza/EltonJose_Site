@@ -15,9 +15,10 @@
   },
   "dependencies": {
     "@dotlottie/react-player": "^1.2.1",
+    "@supabase/auth-helpers-nextjs": "^0.15.0",
     "@supabase/auth-ui-react": "^0.4.7",
     "@supabase/ssr": "^0.1.0",
-    "@supabase/supabase-js": "^2.39.0",
+    "@supabase/supabase-js": "^2.94.1",
     "@tailwindcss/forms": "^0.5.7",
     "@tailwindcss/typography": "^0.5.9",
     "@vercel/analytics": "^1.1.2",
@@ -46,7 +47,9 @@
     "utf-8-validate": "^6.0.3"
   },
   "devDependencies": {
+    "@types/react": "19.2.11",
     "encoding": "^0.1.13",
-    "sharp": "^0.32.6"
+    "sharp": "^0.32.6",
+    "typescript": "5.9.3"
   }
 }
