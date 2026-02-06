@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "version": "1.0",
+    "last_updated": "2026-02-06",
+    "linked_post": "index.mdx"
+  },
+  "promotion": {
+    "summary_short": "Refatoração de semanas feita em dias? Isso é Repository Intelligence. Cursor, Cody e Windsurf agora entendem seu codebase inteiro, não apenas arquivos isolados.",
+    "summary_professional": "Imagine um Senior Dev que leu 100% do seu código, lembra de cada commit e está disponível 24/7 para responder perguntas. Essa é a promessa do Repository Intelligence, a nova fase da IA para devs.",
+    "hashtags": [
+      "#RepositoryIntelligence",
+      "#AItools",
+      "#Cursor",
+      "#Windsurf",
+      "#DevProductivity",
+      "#CodeRefactoring",
+      "#TechStack"
+    ],
+    "twitter_thread": [
+      "Refatorar 50 arquivos? 😫 Semanas de dor.\nRefatorar com Repository Intelligence? 🤯 2 dias.\n\nO jogo mudou. Não é mais sobre autocomplete, é sobre contexto total. 👇 Thread",
+      "Qual a diferença?\n\n🔹 Code Gen (ChatGPT): \"Gera uma função de login\"\n🔹 Repo Intelligence (Cursor/Cody): \"Adapta o sistema de login para OAuth2 em todo o projeto e atualiza os testes.\"\n\nContexto é rei.",
+      "Ferramentas como @cursor_ai e @sourcegraph criam um mapa semântico do seu código.\n\nEles sabem onde você declarou aquela variável obscura há 3 meses e como ela afeta o módulo novo que você está criando hoje.",
+      "Casos de uso reais que estão economizando milhares de dólares:\n1️⃣ Onboarding de novos devs (de meses para semanas)\n2️⃣ Migrações de Framework (sem quebrar tudo)\n3️⃣ Debugging de erros sistêmicos complexos",
+      "\"Mas e a privacidade?\"\nGrandes players já oferecem soluções on-premise ou com garantia de zero-training.\n\nSe sua empresa não está usando isso por medo, seu concorrente está usando e entregando 3x mais rápido.",
+      "Qual ferramenta escolher? Cursor? Windsurf? Cody?\n\nFiz um comparativo detalhado no post de hoje. Spoiler: A melhor ferramenta é a que se adapta ao SEU fluxo.\n\nLeia agora: [Link]"
+    ],
+    "linkedin_draft": "Você ainda trata IA como um estagiário que só completa código?\n\nEstá na hora de promovê-la a Arquiteto Senior.\n\nNo artigo final da minha série sobre IA em 2026, mergulho no conceito de **Repository Intelligence**. A capacidade de ferramentas como Cursor, Cody e Windsurf de \"ler\" e compreender semânticamente todo o seu codebase.\n\nIsso resolve o maior gargalo do desenvolvimento moderno: CONTEXTO.\n\nAutocomplete é útil, mas não evita que você quebre a arquitetura do projeto. Repository Intelligence entende as dependências, os padrões e o histórico.\n\nResultados práticos que vi no mercado:\n🚀 Onboarding de novos devs acelerado em 75%.\n🛠️ Refatorações complexas (ex: migração de lib) feitas em dias, não semanas.\n🐛 Debugging de erros que envolviam múltiplos microserviços em minutos.\n\nSe você quer produtividade real, pare de focar em gerar snippets e comece a usar inteligência contextual.\n\nConfira o comparativo das ferramentas no link abaixo 👇\n\n#RepositoryIntelligence #DevTools #Productivity #AIcoding #Innovation"
+  },
+  "repost_optimization": {
+    "og_title_variant": "Adeus Autocomplete: Por que Repository Intelligence é o futuro do código",
+    "pinterest_image": ""
+  },
+  "automation": {
+    "status": "draft",
+    "platforms_posted": []
+  }
+}

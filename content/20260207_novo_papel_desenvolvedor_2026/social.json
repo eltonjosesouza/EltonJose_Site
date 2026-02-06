@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "version": "1.0",
+    "last_updated": "2026-02-06",
+    "linked_post": "index.mdx"
+  },
+  "promotion": {
+    "summary_short": "Descubra como a IA está transformando devs em arquitetos de inteligência. O paradoxo 'AI lowers the barrier, raises the bar' exige novas skills: code review crítico, governança e orquestração de agentes.",
+    "summary_professional": "Em 2026, a pergunta não é 'A IA vai me substituir?', mas 'Estou pronto para liderar uma equipe de agentes?'. O papel do desenvolvedor evoluiu de digitar código para orquestrar inteligência.",
+    "hashtags": [
+      "#CarreiraDev",
+      "#AgenticAI",
+      "#TechLeadership",
+      "#SoftwareArchitecture",
+      "#Upskilling",
+      "#FutureOfWork"
+    ],
+    "twitter_thread": [
+      "\"Se a IA escreve 90% do código, o que sobra para o dev?\"\n\nResposta curta: TUDO que realmente importa.\n\nEm 2026, estamos vivendo o paradoxo da acessibilidade. 👇 Thread",
+      "📉 AI Lowers the Barrier: Qualquer um gera código.\n📈 AI Raises the Bar: Só experts sabem se é o código CERTO.\n\nCode review se tornou mais crítico que digitação. Sua capacidade de julgar a arquitetura vale mais que decorar sintaxe.",
+      "O novo Tech Lead não gerencia apenas pessoas. Ele orquestra uma equipe híbrida de humanos e agentes autônomos (Coding Agents, QA Bots, Security Scanners).\n\nVocê está pronto para ser um \"AI Architect\"?",
+      "As 3 skills que salvam sua carreira em 2026:\n1️⃣ Code Review Profundo (Achar o bug que a IA criou)\n2️⃣ AI Governance (Segurança e Compliance)\n3️⃣ Context Engineering (Fazer a IA trabalhar pra você)",
+      "Não é sobre substituição, é sobre evolução.\n\nDesenvolvedores que abraçam a IA tornam-se 10x mais produtivos. Aqueles que resistem... bem, a história dirá.\n\nLeia o guia completo de sobrevivência e upskilling: [Link]"
+    ],
+    "linkedin_draft": "Você contrataria um arquiteto que só sabe assentar tijolos, mas não sabe desenhar a planta?\n\nÉ exatamente isso que está acontecendo com o desenvolvimento de software em 2026.\n\nCom ferramentas de Agentic AI gerando até 90% do código boilerplate, o valor do desenvolvedor \"digitador\" despencou. Em contrapartida, o valor do desenvolvedor com visão arquitetural e estratégica nunca foi tão alto.\n\nNeste artigo, discuto o conceito de \"AI Lowers the Barrier, Raises the Bar\":\n\n🔹 A barreira de entrada caiu: Juniors fazem apps complexos.\n🔹 A barra de excelência subiu: Seniors precisam garantir segurança, escala e governança de código que não escreveram.\n\nO futuro pertence aos \"AI Orchestrators\" — líderes que sabem gerenciar equipes mistas de humanos e agentes digitais.\n\nSe você quer saber quais skills priorizar hoje para não ficar obsoleto amanhã, confira o roadmap de upskilling no artigo.\n\n👇 Link nos comentários.\n\n#SoftwareEngineering #CareerAdvice #AI #TechTrends #Leadership"
+  },
+  "repost_optimization": {
+    "og_title_variant": "De Codificador a Arquiteto: O Guia de Carreira para Era da IA (2026)",
+    "pinterest_image": ""
+  },
+  "automation": {
+    "status": "draft",
+    "platforms_posted": []
+  }
+}

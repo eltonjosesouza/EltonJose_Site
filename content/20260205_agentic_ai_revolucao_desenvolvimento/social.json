@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "version": "1.0",
+    "last_updated": "2026-02-06",
+    "linked_post": "index.mdx"
+  },
+  "promotion": {
+    "summary_short": "Descubra como a Agentic AI está transformando o desenvolvimento de software, permitindo que sistemas autônomos planejem, executem e refinem tarefas complexas.",
+    "summary_professional": "Estamos vivendo a maior transição na engenharia de software dos últimos 20 anos. Agentic AI não é apenas sobre autocomplete de código; é sobre sistemas autônomos que planejam e executam tarefas completas.",
+    "hashtags": [
+      "#AgenticAI",
+      "#AutonomousAgents",
+      "#GitHubCopilot",
+      "#Cursor",
+      "#SoftwareEngineering",
+      "#TechTrends2026",
+      "#DevLife"
+    ],
+    "twitter_thread": [
+      "Imagine abrir o GitHub de manhã e encontrar um PR completo: código feito, testado e documentado 🤯. Não é sonho, é Agentic AI.\n\nE em 2026, isso está mudando tudo. 👇 Thread",
+      "🤖 Chatbots (2024) respondiam perguntas.\n🧠 Agentic AI (2026) atinge objetivos.\n\nA diferença? Autonomia. Agentes como o do @cursor_ai ou Windsurf não apenas sugerem código; eles planejam, editam arquivos, rodam terminais e corrigem seus próprios erros.",
+      "👥 Multi-Agent Systems são a nova equipe.\n\nImagine um agente focado em testes, outro em segurança e um terceiro em docs, todos colaborando. É assim que problemas complexos estão sendo resolvidos enquanto dormimos.",
+      "📉 A previsão é insana: até 90% do código pode ser gerado por IA em breve.\n\nIsso significa o fim dos devs? Não.\nSignifica que deixamos de ser 'digitadores de sintaxe' para nos tornarmos 'arquitetos de inteligência'. Code review > Code writing.",
+      "🛡️ Mas com grande poder...\n\nGovernança é crítica. Agentes autônomos precisam de 'crachá' (identidade), limites de acesso e logs de auditoria. Tech Leads: a segurança da IA agora é parte do job description.",
+      "🚀 A revolução já começou.\n\nSe você ainda usa IA só para tirar dúvidas de regex, está ficando para trás. O futuro pertence a quem sabe orquestrar agentes.\n\nLeia o artigo completo sobre a Era da Agentic AI: [Link Aqui]"
+    ],
+    "linkedin_draft": "Você contrataria um funcionário que trabalha 24h por dia, não bebe café e entrega PRs completos enquanto você dorme?\n\nBem-vindo à Era da Agentic AI.\n\nNo meu novo artigo, exploro como 2026 se tornou o ponto de virada para o desenvolvimento de software. Não estamos mais falando de ferramentas que apenas \"sugerem\" código (autocompletar). Estamos falando de agentes autônomos que:\n\n1️⃣ Planejam a execução de tarefas complexas.\n2️⃣ Manipulam múltiplos arquivos e rodam comandos no terminal.\n3️⃣ Refinam seu próprio trabalho baseados em erros de teste.\n\nFerramentas como GitHub Copilot Agent Mode, Cursor e Windsurf já estão permitindo que equipes pequenas entreguem com a velocidade de gigantes.\n\nMas a parte mais interessante? A mudança no NOSSO papel.\n\nDeixamos de ser os pedreiros do código (focados em sintaxe) para nos tornarmos os arquitetos da solução. A habilidade mais valiosa de 2026 não é decorar a API do React, mas saber orquestrar um time de agentes digitais e garantir a governança e segurança do que eles produzem.\n\nE você, já delegou sua primeira tarefa completa para um agente hoje?\n\nConfira o artigo completo no blog estonjose.com.br 👇\n\n#AgenticAI #SoftwareDevelopment #TechLeadership #Innovation #AI2026"
+  },
+  "repost_optimization": {
+    "og_title_variant": "Agentic AI: Por que você vai parar de escrever código em 2026",
+    "pinterest_image": ""
+  },
+  "automation": {
+    "status": "draft",
+    "platforms_posted": []
+  }
+}
