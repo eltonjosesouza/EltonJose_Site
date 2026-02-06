@@ -14,6 +14,7 @@ const siteMetadata = {
   facebook: 'https://www.facebook.com/eltonjosesouza/',
   youtube: 'https://youtube.com/eltonjosesouza', // Por favor, forneça o URL real do seu canal no YouTube
   linkedin: 'https://www.linkedin.com/in/eltonjosesouza/',
+  instagram: 'https://www.instagram.com/eltonjose.tech',
   dribbble: 'https://www.dribbble.com',
   locale: 'pt-BR',
 }
