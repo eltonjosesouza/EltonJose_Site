@@ -1,6 +1,6 @@
 import React from "react";
 import { cx } from "../utils";
-import { Instagram, Github, Linkedin, Twitter, Dribbble } from 'react-bootstrap-icons';
+import { Instagram, Github, Linkedin, TwitterX, Dribbble } from 'react-bootstrap-icons';
 
 // ... (SunIcon, MoonIcon permanecem inalterados por serem animações line-md complexas) ...
 
@@ -345,7 +345,7 @@ export const LinkedinIcon = ({ className, ...rest }) => {
 };
 
 export const TwitterIcon = ({ className, ...rest }) => {
-  return <Twitter className={cx("w-full h-auto", className)} {...rest} />;
+  return <TwitterX className={cx("w-full h-auto", className)} {...rest} />;
 };
 
 export const GithubIcon = ({ className, ...rest }) => {
