@@ -68,10 +68,7 @@ export default function ContactPage() {
                                 <div>
                                     <h3 className="font-semibold text-dark dark:text-light mb-1">Localização</h3>
                                     <p className="text-dark/70 dark:text-light/70">
-                                        São Paulo, Brasil
-                                    </p>
-                                    <p className="text-sm text-dark/60 dark:text-light/60 mt-1">
-                                        Disponível para trabalho remoto
+                                        Goiânia/GO, Brasil
                                     </p>
                                 </div>
                             </div>
