@@ -10,7 +10,7 @@ const siteMetadata = {
   socialBanner: '/logo.png', // add social banner in the public folder
   email: 'blog@eltonjose.com.br',
   github: 'https://github.com/eltonjosesouza',
-  twitter: 'https://twitter.com/eltonjose',
+  twitter: 'https://x.com/eltonjosesouza',
   facebook: 'https://www.facebook.com/eltonjosesouza/',
   youtube: 'https://youtube.com/eltonjosesouza', // Por favor, forneça o URL real do seu canal no YouTube
   linkedin: 'https://www.linkedin.com/in/eltonjosesouza/',
