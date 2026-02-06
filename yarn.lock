@@ -3116,6 +3116,11 @@ lru-cache@^6.0.0:
   dependencies:
     yallist "^4.0.0"
 
+lucide-react@^0.563.0:
+  version "0.563.0"
+  resolved "https://registry.npmjs.org/lucide-react/-/lucide-react-0.563.0.tgz"
+  integrity sha512-8dXPB2GI4dI8jV4MgUDGBeLdGk8ekfqVZ0BdLcrRzocGgG75ltNEmWS+gE7uokKF/0oSUuczNDT+g9hFJ23FkA==
+
 markdown-extensions@^1.0.0:
   version "1.1.1"
   resolved "https://registry.npmjs.org/markdown-extensions/-/markdown-extensions-1.1.1.tgz"
@@ -4295,6 +4300,13 @@ rc@^1.2.7:
     ini "~1.3.0"
     minimist "^1.2.0"
     strip-json-comments "~2.0.1"
+
+react-bootstrap-icons@^1.11.6:
+  version "1.11.6"
+  resolved "https://registry.npmjs.org/react-bootstrap-icons/-/react-bootstrap-icons-1.11.6.tgz"
+  integrity sha512-ycXiyeSyzbS1C4+MlPTYe0riB+UlZ7LV7YZQYqlERV2cxDiKtntI0huHmP/3VVvzPt4tGxqK0K+Y6g7We3U6tQ==
+  dependencies:
+    prop-types "^15.7.2"
 
 react-dom@^18.2.0, react-dom@18.3.1:
   version "18.3.1"
