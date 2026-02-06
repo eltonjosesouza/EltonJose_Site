@@ -6,6 +6,8 @@ import { filterBlogs } from "@/src/utils";
 
 const slugger = new GithubSlugger();
 
+export const revalidate = 3600;
+
 export async function generateStaticParams() {
   const categories = [];
   const paths = [{ slug: "all" }];

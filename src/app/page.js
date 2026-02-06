@@ -6,6 +6,8 @@ import { Analytics } from '@vercel/analytics/react';
 import { SpeedInsights } from '@vercel/speed-insights/next';
 import { filterBlogs } from "../utils";
 
+export const revalidate = 3600;
+
 export default function Home() {
 
   const filteredBlogs = filterBlogs(allBlogs);

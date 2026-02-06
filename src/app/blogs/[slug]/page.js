@@ -7,6 +7,8 @@ import { slug } from "github-slugger";
 import Image from "next/image";
 import { filterBlogs } from "@/src/utils";
 
+export const revalidate = 3600;
+
 export async function generateStaticParams() {
   const filteredBlogs = filterBlogs(allBlogs);
   return filteredBlogs.map((blog) => ({ slug: blog._raw.flattenedPath }));
