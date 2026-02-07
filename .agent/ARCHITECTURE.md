@@ -177,14 +177,14 @@ Slash command procedures. Invoke with `/command`.
 | ---------------- | ------------------------ |
 | `/brainstorm`    | Socratic discovery       |
 | `/create`        | Create new features      |
-| `/create-blog-post`  | Create new post          |
+| `/blog-create-post`  | Create new post          |
 | `/debug`         | Debug issues             |
 | `/deploy`        | Deploy application       |
 | `/enhance`       | Improve existing code    |
 | `/orchestrate`   | Multi-agent coordination |
 | `/plan`          | Task breakdown           |
 | `/preview`       | Preview changes          |
-| `/publish-blog-post` | Publish post to prod     |
+| `/blog-publish-post` | Publish post to prod     |
 | `/status`        | Check project status     |
 | `/test`          | Run tests                |
 | `/ui-ux-pro-max` | Design with 50 styles    |

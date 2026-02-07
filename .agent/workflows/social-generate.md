@@ -12,10 +12,11 @@ description: Generate creative social media content (Threads, LinkedIn) for a bl
    - **Hashtags**: Refine or expand specific hashtags based on the content.
 4. **Update JSON**:
    - Read the existing `social.json`.
-   - Update the `promotion.twitter_thread`, `promotion.summary_professional` (LinkedIn), and `promotion.hashtags` fields with the generated content.
+   - Update the `promotion.twitter_thread`, `promotion.linkedin_post` (or `summary_professional`), and `promotion.hashtags` fields with the generated content.
+   - **CRITICAL**: Preserve the existing JSON structure. Do NOT add or remove keys. Only update values.
    - Use `write_to_file` to save the updated JSON.
 5. **Notify User**: Inform the user that the content has been generated and is ready for review in `social.json`.
 
 **Prompting Strategy for Content:**
-- **Twitter**: Viral style, punchy, "👇 Thread".
+- **Twitter**: Viral style, punchy, "👉". DO NOT include links or mentions.
 - **LinkedIn**: Thought leadership, professional but accessible, "O que você acha disso?".

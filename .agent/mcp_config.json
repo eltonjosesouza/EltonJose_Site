@@ -15,6 +15,9 @@
                 "shadcn@latest",
                 "mcp"
             ]
+        },
+        "blog-posts": {
+            "serverUrl": "https://posts.eltonjose.com.br/api/mcp/ee43aef274f762c5408c4be2525b7cc8b1cbd336444d8f8da0e9a84c3e527320"
         }
         //other mcp servers
     }
