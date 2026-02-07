@@ -1,26 +1,11 @@
 [
   {
-    "integrationId": "<LINKEDIN_ID>",
+    "integrationId": "cmlb2cgel0007ph6qtxyuu7fp",
     "type": "schedule",
-    "date": "2026-02-07T01:17:25Z",
+    "date": "2026-02-07T09:00:00Z",
     "postsAndComments": [
       {
-        "content": "<p>Como será ser um desenvolvedor em 2026? 🤔</p><p>Com a ascensão da IA Generativa e Agentes Autônomos, o dia a dia de escrever boilerplate está com os dias contados. Mas isso não é o fim da profissão - é uma evolução necessária.</p><p>O novo perfil, o \"AI-Augmented Developer\", foca menos em sintaxe e mais em:</p><p>✅ Arquitetura de Sistemas</p><p>✅ Design de Prompts e Orquestração</p><p>✅ Review de Código Gerado por IA</p><p>✅ Resolução de Problemas Complexos</p><p>Neste artigo, discuto as habilidades essenciais para sobreviver e prosperar nessa nova era. A adaptação não é opcional.</p><p>Você está pronto para evoluir?</p>",
-        "attachments": [
-          "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260207_novo_papel_desenvolvedor_2026/social-media/feed-post-1-title.jpg",
-          "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260207_novo_papel_desenvolvedor_2026/social-media/feed-post-2-summary-short.jpg"
-        ]
-      }
-    ],
-    "settings": []
-  },
-  {
-    "integrationId": "<INSTAGRAM_ID>",
-    "type": "schedule",
-    "date": "2026-02-07T01:17:25Z",
-    "postsAndComments": [
-      {
-        "content": "New Post! Check connection in bio.",
+        "content": "Novo Post! Link na bio 🔗",
         "attachments": [
           "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260207_novo_papel_desenvolvedor_2026/social-media/story-cover.jpg",
           "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260207_novo_papel_desenvolvedor_2026/social-media/story-tweet-1.jpg",
@@ -40,60 +25,40 @@
       }
     ]
   },
+
   {
-    "integrationId": "<FACEBOOK_ID>",
+    "integrationId": "cmlb2cgel0007ph6qtxyuu7fp",
     "type": "schedule",
-    "date": "2026-02-07T01:17:25Z",
+    "date": "2026-02-07T22:00:00Z",
     "postsAndComments": [
       {
-        "content": "New Post!",
+        "content": "<p>Como será ser um desenvolvedor em 2026? 🤔</p><p>Com a ascensão da IA Generativa e Agentes Autônomos, o dia a dia de escrever boilerplate está com os dias contados. Mas isso não é o fim da profissão - é uma evolução necessária.</p><p>O novo perfil, o \"AI-Augmented Developer\", foca menos em sintaxe e mais em:</p><p>✅ Arquitetura de Sistemas</p><p>✅ Design de Prompts e Orquestração</p><p>✅ Review de Código Gerado por IA</p><p>✅ Resolução de Problemas Complexos</p><p>Neste artigo, discuto as habilidades essenciais para sobreviver e prosperar nessa nova era. A adaptação não é opcional.</p><p>Você está pronto para evoluir?</p>",
         "attachments": [
-          "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260207_novo_papel_desenvolvedor_2026/social-media/story-cover.jpg",
-          "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260207_novo_papel_desenvolvedor_2026/social-media/story-tweet-1.jpg",
-          "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260207_novo_papel_desenvolvedor_2026/social-media/story-tweet-2.jpg",
-          "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260207_novo_papel_desenvolvedor_2026/social-media/story-tweet-3.jpg",
-          "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260207_novo_papel_desenvolvedor_2026/social-media/story-tweet-4.jpg",
-          "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260207_novo_papel_desenvolvedor_2026/social-media/story-tweet-5.jpg",
-          "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260207_novo_papel_desenvolvedor_2026/social-media/story-tweet-6.jpg",
-          "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260207_novo_papel_desenvolvedor_2026/social-media/story-tweet-7.jpg"
+          "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260207_novo_papel_desenvolvedor_2026/social-media/feed-post-1-title.jpg",
+          "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260207_novo_papel_desenvolvedor_2026/social-media/feed-post-2-summary-short.jpg"
+        ]
+      }
+    ],
+    "settings": []
+  },
+  {
+    "integrationId": "cmlb4asmd000bph6qkv1tygtb",
+    "type": "schedule",
+    "date": "2026-02-07T22:00:00Z",
+    "postsAndComments": [
+      {
+        "content": "<p>Como será ser um desenvolvedor em 2026? 🤔</p><p>Com a ascensão da IA Generativa e Agentes Autônomos, o dia a dia de escrever boilerplate está com os dias contados. Mas isso não é o fim da profissão - é uma evolução necessária.</p><p>O novo perfil, o \"AI-Augmented Developer\", foca menos em sintaxe e mais em:</p><p>✅ Arquitetura de Sistemas</p><p>✅ Design de Prompts e Orquestração</p><p>✅ Review de Código Gerado por IA</p><p>✅ Resolução de Problemas Complexos</p><p>Neste artigo, discuto as habilidades essenciais para sobreviver e prosperar nessa nova era. A adaptação não é opcional.</p><p>Você está pronto para evoluir?</p>",
+        "attachments": [
+          "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260207_novo_papel_desenvolvedor_2026/social-media/feed-post-1-title.jpg",
+          "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260207_novo_papel_desenvolvedor_2026/social-media/feed-post-2-summary-short.jpg"
         ]
       }
     ],
     "settings": [
       {
-        "key": "media_type",
-        "value": "STORY"
+        "key": "url",
+        "value": "https://www.eltonjose.com.br/blogs/20260207_novo_papel_desenvolvedor_2026"
       }
     ]
-  },
-  {
-    "integrationId": "<INSTAGRAM_ID>",
-    "type": "schedule",
-    "date": "2026-02-07T01:17:25Z",
-    "postsAndComments": [
-      {
-        "content": "<p>Como será ser um desenvolvedor em 2026? 🤔</p><p>Com a ascensão da IA Generativa e Agentes Autônomos, o dia a dia de escrever boilerplate está com os dias contados. Mas isso não é o fim da profissão - é uma evolução necessária.</p><p>O novo perfil, o \"AI-Augmented Developer\", foca menos em sintaxe e mais em:</p><p>✅ Arquitetura de Sistemas</p><p>✅ Design de Prompts e Orquestração</p><p>✅ Review de Código Gerado por IA</p><p>✅ Resolução de Problemas Complexos</p><p>Neste artigo, discuto as habilidades essenciais para sobreviver e prosperar nessa nova era. A adaptação não é opcional.</p><p>Você está pronto para evoluir?</p>",
-        "attachments": [
-          "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260207_novo_papel_desenvolvedor_2026/social-media/feed-post-1-title.jpg",
-          "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260207_novo_papel_desenvolvedor_2026/social-media/feed-post-2-summary-short.jpg"
-        ]
-      }
-    ],
-    "settings": []
-  },
-  {
-    "integrationId": "<FACEBOOK_ID>",
-    "type": "schedule",
-    "date": "2026-02-07T01:17:25Z",
-    "postsAndComments": [
-      {
-        "content": "<p>Como será ser um desenvolvedor em 2026? 🤔</p><p>Com a ascensão da IA Generativa e Agentes Autônomos, o dia a dia de escrever boilerplate está com os dias contados. Mas isso não é o fim da profissão - é uma evolução necessária.</p><p>O novo perfil, o \"AI-Augmented Developer\", foca menos em sintaxe e mais em:</p><p>✅ Arquitetura de Sistemas</p><p>✅ Design de Prompts e Orquestração</p><p>✅ Review de Código Gerado por IA</p><p>✅ Resolução de Problemas Complexos</p><p>Neste artigo, discuto as habilidades essenciais para sobreviver e prosperar nessa nova era. A adaptação não é opcional.</p><p>Você está pronto para evoluir?</p>",
-        "attachments": [
-          "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260207_novo_papel_desenvolvedor_2026/social-media/feed-post-1-title.jpg",
-          "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260207_novo_papel_desenvolvedor_2026/social-media/feed-post-2-summary-short.jpg"
-        ]
-      }
-    ],
-    "settings": []
   }
 ]
