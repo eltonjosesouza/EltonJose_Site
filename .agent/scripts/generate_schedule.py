@@ -21,6 +21,7 @@ def load_env_file(filepath):
                 # Remove quotes if present
                 value = value.strip().strip("'").strip('"')
                 env_vars[key.strip()] = value
+    # print(f"Loaded keys from {filepath}: {list(env_vars.keys())}") # Debug
     return env_vars
 
 def get_env_vars():

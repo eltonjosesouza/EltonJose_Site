@@ -5,7 +5,7 @@
     "date": "2026-02-05T09:00:00Z",
     "postsAndComments": [
       {
-        "content": "New Post! Check connection in bio.",
+        "content": "Novo Post! Link na bio 🔗",
         "attachments": [
           "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260205_agentic_ai_revolucao_desenvolvimento/social-media/story-cover.jpg",
           "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260205_agentic_ai_revolucao_desenvolvimento/social-media/story-tweet-1.jpg",
@@ -25,32 +25,7 @@
       }
     ]
   },
-  {
-    "integrationId": "cmlb4asmd000bph6qkv1tygtb",
-    "type": "schedule",
-    "date": "2026-02-05T09:00:00Z",
-    "postsAndComments": [
-      {
-        "content": "New Post!",
-        "attachments": [
-          "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260205_agentic_ai_revolucao_desenvolvimento/social-media/story-cover.jpg",
-          "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260205_agentic_ai_revolucao_desenvolvimento/social-media/story-tweet-1.jpg",
-          "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260205_agentic_ai_revolucao_desenvolvimento/social-media/story-tweet-2.jpg",
-          "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260205_agentic_ai_revolucao_desenvolvimento/social-media/story-tweet-3.jpg",
-          "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260205_agentic_ai_revolucao_desenvolvimento/social-media/story-tweet-4.jpg",
-          "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260205_agentic_ai_revolucao_desenvolvimento/social-media/story-tweet-5.jpg",
-          "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260205_agentic_ai_revolucao_desenvolvimento/social-media/story-tweet-6.jpg",
-          "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260205_agentic_ai_revolucao_desenvolvimento/social-media/story-tweet-7.jpg"
-        ]
-      }
-    ],
-    "settings": [
-      {
-        "key": "media_type",
-        "value": "STORY"
-      }
-    ]
-  },
+
   {
     "integrationId": "cmlb2cgel0007ph6qtxyuu7fp",
     "type": "schedule",
@@ -79,6 +54,11 @@
         ]
       }
     ],
-    "settings": []
+    "settings": [
+      {
+        "key": "url",
+        "value": "https://www.eltonjose.com.br/blogs/20260205_agentic_ai_revolucao_desenvolvimento"
+      }
+    ]
   }
 ]
