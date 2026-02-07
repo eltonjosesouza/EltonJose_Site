@@ -1,0 +1,28 @@
+{
+    "type": "now",
+    "date": "2024-12-14T10:00:00.000Z",
+    "shortLink": false,
+    "tags": [],
+    "posts": [
+        {
+            "integration": {
+                "id": "your-instagram-integration-id"
+            },
+            "value": [
+                {
+                    "content": "",
+                    "image": [
+                        {
+                            "id": "story-image-id",
+                            "path": "https://uploads.postiz.com/story.jpg"
+                        }
+                    ]
+                }
+            ],
+            "settings": {
+                "__type": "instagram",
+                "post_type": "story"
+            }
+        }
+    ]
+}

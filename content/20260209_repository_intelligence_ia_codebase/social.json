@@ -1,12 +1,12 @@
 {
   "meta": {
     "version": "1.0",
-    "last_updated": "2026-02-06",
+    "last_updated": "2026-02-07",
     "linked_post": "index.mdx"
   },
   "promotion": {
-    "summary_short": "Descubra como Repository Intelligence está revolucionando o desenvolvimento de software. Explore ferramentas como Cursor, Cody e Sourcegraph que compreendem codebases completos.",
-    "summary_professional": "O jogo mudou. De novo. 🚀\n\nPassamos da era do \"Code Generation\" (snippets isolados) para \"Repository Intelligence\" — IAs que compreendem a arquitetura completa, o histórico e as dependências do seu projeto.\n\nImagine refatorar um módulo core afetando 50 arquivos e ter uma IA que não apenas sugere o código, mas ajusta os testes, atualiza a documentação e verifica impactos em todo o sistema. Isso já é realidade com ferramentas como Cursor, Cody e Windsurf.\n\nNo meu novo artigo, analiso:\n✅ A evolução técnica (Indexação Semântica, GNNs)\n✅ ROI real em refatoração e onboarding\n✅ Comparativo detalhado: Cursor vs Cody vs Copilot vs Antigravity\n\nA produtividade não é mais sobre digitar rápido. É sobre orquestrar inteligência em escala.\n\nO futuro não é substituir devs, é amplificar arquitetos.\n\nO que você acha disso? Estamos prontos para confiar tanto assim na IA?",
+    "summary_short": "Descubra como Repository Intelligence está revolucionando o desenvolvimento de software. Explore ferramentas como Cursor, Cody e Sourcegraph que compreendem codebases completos, casos de uso práticos (refatoração em larga escala, debugging contextual), e como começar a usar hoje.",
+    "summary_professional": "🧠 THREAD: Repository Intelligence — A IA que entende seu código INTEIRO está mudando tudo.\n\nImagine refatorar 500 mil linhas de código em 2 dias ao invés de semanas. Impossível? Não com Repository Intelligence.\n\nNão é mais sobre autocomplete ou gerar snippets. É sobre IA que compreende arquitetura completa, rastreia dependências entre módulos e propõe mudanças coordenadas em dezenas de arquivos simultaneamente.\n\n🎯 O Salto Qualitativo:\n\n• Code Completion (2015): Sugere próxima linha\n• Code Generation (2021): Cria funções isoladas\n• Repository Intelligence (2026): Entende TODO o codebase\n\nResultado? Refatoração 75% mais rápida. Debugging 95% mais eficiente. Onboarding 80% mais rápido.\n\n🛠️ Ferramentas que estão liderando:\n\n• Cursor: Autonomia total com Agent Mode\n• Cody (Sourcegraph): Especialista em repos gigantes\n• Copilot Workspace: Integração nativa com GitHub\n• Windsurf: Foco em 'flow state' de desenvolvimento\n• Antigravity: Agentic AI com mínima supervisão\n\n💡 Casos de Uso com ROI Imediato:\n\n1️⃣ Refatoração Angular → React em 3-4 semanas (vs 4-6 meses)\n2️⃣ Debugging de bugs intermitentes em 4-6 horas (vs 1-2 semanas)\n3️⃣ Code review 4x mais rápido e 60% mais efetivo\n4️⃣ Onboarding de devs em 1-2 semanas (vs 2-3 meses)\n5️⃣ Documentação sempre atualizada automaticamente\n\n🚀 Como começar esta semana:\n\nSegunda: Escolha sua ferramenta (recomendo Cursor)\nTerça: Configure e experimente queries simples\nQuarta: Delegue uma refatoração pequena\nQuinta: Use para debugging complexo\nSexta: Revise e ajuste seu workflow\n\nA verdade incoveniente?\n\n\"Em 2 anos, não contratarei desenvolvedores que não sabem usar Repository Intelligence. É como contratar alguém que não sabe usar Git em 2020.\" — CTO de unicórnio\n\nO futuro do desenvolvimento é contextual, colaborativo e amplificado por IA.\n\nE esse futuro JÁ CHEGOU. 🚀\n\n#RepositoryIntelligence #Cursor #Cody #AI #Desenvolvimento #Codebase #Refatoração #Productivity #DeveloperTools #FutureOfCoding",
     "hashtags": [
       "#RepositoryIntelligence",
       "#Cursor",
@@ -19,13 +19,17 @@
       "#Refatoração"
     ],
     "twitter_thread": [
-      "Imagine refatorar 50+ arquivos em 2 dias com 100% de consistência. Não é ficção. É Repository Intelligence. 🧵👉",
-      "Code Completion era sobre a próxima linha. Code Gen era sobre snippets. Repository Intelligence é sobre entender o sistema INTEIRO. É a diferença entre um estagiário rápido e um arquiteto senior.",
-      "Não é só RAG. É indexação semântica, grafos de dependência e memória persistente. Ferramentas como Cursor e Cody agora \"leem\" seu projeto inteiro antes de sugerir uma única linha.",
-      "ROI real? Empresas reduziram migrações de meses para semanas. Debugging de bugs complexos caiu de dias para horas. O onboarding de novos devs? 75% mais rápido.",
-      "O panorama explodiu: Cursor (autonomia), Cody (repos massivos), Windsurf (fluxo) e o novo Antigravity (agentes autônomos). A escolha depende do seu stack, não do hype.",
-      "Em 2026, codar sem contexto real do repositório será como codar no Bloco de Notas. Quem dominar essas ferramentas terá uma vantagem de carreira brutal.",
-      "O futuro do desenvolvimento é contextual. Você está pronto?"
+      "🧵 A última evolução da IA para código chegou. Não é autocomplete. Não é geração de snippets. É compreensão profunda de codebases INTEIROS. Segue o fio sobre Repository Intelligence 👇",
+      "1/ Tradição: refatorar 500k linhas = semanas de trabalho. Com Repository Intelligence? 2-3 dias. A IA não apenas gera código — ela ENTENDE arquitetura, dependências e padrões do projeto.",
+      "2/ A evolução em 3 fases:\n• 2015: Code Completion (próxima linha)\n• 2021: Code Generation (funções isoladas)\n• 2026: Repository Intelligence (codebase completo)",
+      "3/ Como funciona?\n• Indexação semântica de todo o código\n• RAG avançado com contexto ilimitado\n• Análise de histórico e evolução\n• Graph Neural Networks para relações\n• Memória persistente do projeto",
+      "4/ Casos de uso com ROI imediato:\n• Refatoração: 75% mais rápida\n• Debugging: 95% mais eficiente\n• Code Review: 4x mais rápido\n• Onboarding: 80% mais rápido\n• Docs: sempre atualizadas",
+      "5/ Ferramentas líderes:\n• Cursor — Autonomia total (Agent Mode)\n• Cody — Especialista em repos gigantes\n• Copilot Workspace — Integração GitHub\n• Windsurf — Flow state de desenvolvimento\n• Antigravity — Agentic AI máxima",
+      "6/ Exemplo real: Migrar Angular → React\n\nTradicional: 4-6 meses\nCom RI: 3-4 semanas\n\nEmpresa de fintech economizou $200k e lançou 4 meses antes.",
+      "7/ Debugging contextual profundo:\n\nBug intermitente em produção → IA analisa TODO fluxo de autenticação, identifica race condition, rastreia commit que introduziu o bug.\n\nTempo: 4-6 horas (vs 1-2 semanas tradicional)",
+      "8/ Verdade incoveniente de um CTO de unicórnio:\n\n\"Em 2 anos, não contratarei devs que não sabem usar Repository Intelligence. É como contratar alguém que não sabe Git em 2020.\"",
+      "9/ Como começar ESTA SEMANA:\n\nSegunda: Escolha ferramenta (Cursor recomendado)\nTerça: Configure no projeto\nQuarta: Delegue refatoração pequena\nQuinta: Use para debugging\nSexta: Revise e ajuste",
+      "10/ Repository Intelligence não substitui desenvolvedores. Amplifica quem abraça ferramentas modernas.\n\nO futuro é contextual, colaborativo e IA-amplificado.\n\nE esse futuro JÁ CHEGOU. 🚀"
     ]
   },
   "repost_optimization": {

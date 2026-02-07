@@ -1,63 +1,135 @@
 [
   {
-    "integrationId": "cmlb2cgel0007ph6qtxyuu7fp",
     "type": "schedule",
-    "date": "2026-02-07T09:00:00Z",
-    "postsAndComments": [
-      {
-        "content": "Novo Post! Link na bio 🔗",
-        "attachments": [
-          "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260207_novo_papel_desenvolvedor_2026/social-media/story-cover.jpg",
-          "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260207_novo_papel_desenvolvedor_2026/social-media/story-tweet-1.jpg",
-          "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260207_novo_papel_desenvolvedor_2026/social-media/story-tweet-2.jpg",
-          "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260207_novo_papel_desenvolvedor_2026/social-media/story-tweet-3.jpg",
-          "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260207_novo_papel_desenvolvedor_2026/social-media/story-tweet-4.jpg",
-          "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260207_novo_papel_desenvolvedor_2026/social-media/story-tweet-5.jpg",
-          "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260207_novo_papel_desenvolvedor_2026/social-media/story-tweet-6.jpg",
-          "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260207_novo_papel_desenvolvedor_2026/social-media/story-tweet-7.jpg"
-        ]
-      }
+    "date": "2026-02-08T09:00:00Z",
+    "shortLink": false,
+    "tags": [
+      "carreira",
+      "desenvolvedor",
+      "ai",
+      "story"
     ],
-    "settings": [
+    "posts": [
       {
-        "key": "media_type",
-        "value": "STORY"
+        "integration": {
+          "id": "cmlb2cgel0007ph6qtxyuu7fp"
+        },
+        "value": [
+          {
+            "content": "",
+            "image": [
+              {
+                "id": "img-story-0",
+                "path": "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260207_novo_papel_desenvolvedor_2026/social-media/20260207102439-story-cover.jpg"
+              },
+              {
+                "id": "img-story-1",
+                "path": "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260207_novo_papel_desenvolvedor_2026/social-media/20260207102439-story-tweet-1.jpg"
+              },
+              {
+                "id": "img-story-2",
+                "path": "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260207_novo_papel_desenvolvedor_2026/social-media/20260207102439-story-tweet-2.jpg"
+              },
+              {
+                "id": "img-story-3",
+                "path": "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260207_novo_papel_desenvolvedor_2026/social-media/20260207102439-story-tweet-3.jpg"
+              },
+              {
+                "id": "img-story-4",
+                "path": "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260207_novo_papel_desenvolvedor_2026/social-media/20260207102439-story-tweet-4.jpg"
+              },
+              {
+                "id": "img-story-5",
+                "path": "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260207_novo_papel_desenvolvedor_2026/social-media/20260207102439-story-tweet-5.jpg"
+              },
+              {
+                "id": "img-story-6",
+                "path": "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260207_novo_papel_desenvolvedor_2026/social-media/20260207102439-story-tweet-6.jpg"
+              },
+              {
+                "id": "img-story-7",
+                "path": "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260207_novo_papel_desenvolvedor_2026/social-media/20260207102439-story-tweet-7.jpg"
+              },
+              {
+                "id": "img-story-8",
+                "path": "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260207_novo_papel_desenvolvedor_2026/social-media/20260207102439-story-tweet-8.jpg"
+              },
+              {
+                "id": "img-story-9",
+                "path": "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260207_novo_papel_desenvolvedor_2026/social-media/20260207102439-story-tweet-9.jpg"
+              }
+            ]
+          }
+        ],
+        "settings": {
+          "__type": "instagram",
+          "post_type": "story"
+        }
       }
     ]
   },
-
   {
-    "integrationId": "cmlb2cgel0007ph6qtxyuu7fp",
     "type": "schedule",
-    "date": "2026-02-07T22:00:00Z",
-    "postsAndComments": [
+    "date": "2026-02-08T22:00:00Z",
+    "shortLink": false,
+    "tags": [],
+    "posts": [
       {
-        "content": "<p>Como será ser um desenvolvedor em 2026? 🤔</p><p>Com a ascensão da IA Generativa e Agentes Autônomos, o dia a dia de escrever boilerplate está com os dias contados. Mas isso não é o fim da profissão - é uma evolução necessária.</p><p>O novo perfil, o \"AI-Augmented Developer\", foca menos em sintaxe e mais em:</p><p>✅ Arquitetura de Sistemas</p><p>✅ Design de Prompts e Orquestração</p><p>✅ Review de Código Gerado por IA</p><p>✅ Resolução de Problemas Complexos</p><p>Neste artigo, discuto as habilidades essenciais para sobreviver e prosperar nessa nova era. A adaptação não é opcional.</p><p>Você está pronto para evoluir?</p>",
-        "attachments": [
-          "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260207_novo_papel_desenvolvedor_2026/social-media/feed-post-1-title.jpg",
-          "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260207_novo_papel_desenvolvedor_2026/social-media/feed-post-2-summary-short.jpg"
-        ]
+        "integration": {
+          "id": "cmlb2cgel0007ph6qtxyuu7fp"
+        },
+        "value": [
+          {
+            "content": "<p>Em 2026, desenvolvedores estão passando por uma transformação radical. O paradoxo 'AI lowers the barrier, raises the bar' está redefinindo a carreira: enquanto IA democratiza programação, eleva o padrão de excelência. Hoje, o diferencial não é escrever código, mas sim arquitetar sistemas, revisar criticamente código gerado por IA e orquestrar equipes mistas de humanos e agentes autônomos. As 7 habilidades críticas são: arquitetura de sistemas, code review profundo, prompt engineering, AI governance, pensamento estratégico, context engineering e aprendizado contínuo. Tech leads estão se tornando 'AI orchestrators', gerenciando 3-5 devs e 10-20 agentes especializados. O roadmap é claro: domine ferramentas de Agentic AI, desenvolva pensamento arquitetural, e lidere a transformação. A IA não substitui desenvolvedores — amplifica quem abraça a mudança. Como você está se preparando para esse novo papel? 🚀</p>",
+            "image": [
+              {
+                "id": "img-ig-feed-0",
+                "path": "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260207_novo_papel_desenvolvedor_2026/social-media/20260207102439-feed-post-1-title.jpg"
+              },
+              {
+                "id": "img-ig-feed-1",
+                "path": "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260207_novo_papel_desenvolvedor_2026/social-media/20260207102439-feed-post-2-summary-short.jpg"
+              }
+            ]
+          }
+        ],
+        "settings": {
+          "__type": "instagram",
+          "post_type": "post",
+          "collaborators": []
+        }
       }
-    ],
-    "settings": []
+    ]
   },
   {
-    "integrationId": "cmlb4asmd000bph6qkv1tygtb",
     "type": "schedule",
-    "date": "2026-02-07T22:00:00Z",
-    "postsAndComments": [
+    "date": "2026-02-08T22:00:00Z",
+    "shortLink": false,
+    "tags": [],
+    "posts": [
       {
-        "content": "<p>Como será ser um desenvolvedor em 2026? 🤔</p><p>Com a ascensão da IA Generativa e Agentes Autônomos, o dia a dia de escrever boilerplate está com os dias contados. Mas isso não é o fim da profissão - é uma evolução necessária.</p><p>O novo perfil, o \"AI-Augmented Developer\", foca menos em sintaxe e mais em:</p><p>✅ Arquitetura de Sistemas</p><p>✅ Design de Prompts e Orquestração</p><p>✅ Review de Código Gerado por IA</p><p>✅ Resolução de Problemas Complexos</p><p>Neste artigo, discuto as habilidades essenciais para sobreviver e prosperar nessa nova era. A adaptação não é opcional.</p><p>Você está pronto para evoluir?</p>",
-        "attachments": [
-          "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260207_novo_papel_desenvolvedor_2026/social-media/feed-post-1-title.jpg",
-          "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260207_novo_papel_desenvolvedor_2026/social-media/feed-post-2-summary-short.jpg"
-        ]
-      }
-    ],
-    "settings": [
-      {
-        "key": "url",
-        "value": "https://www.eltonjose.com.br/blogs/20260207_novo_papel_desenvolvedor_2026"
+        "integration": {
+          "id": "cmlb4asmd000bph6qkv1tygtb"
+        },
+        "value": [
+          {
+            "content": "<p>Em 2026, desenvolvedores estão passando por uma transformação radical. O paradoxo 'AI lowers the barrier, raises the bar' está redefinindo a carreira: enquanto IA democratiza programação, eleva o padrão de excelência. Hoje, o diferencial não é escrever código, mas sim arquitetar sistemas, revisar criticamente código gerado por IA e orquestrar equipes mistas de humanos e agentes autônomos. As 7 habilidades críticas são: arquitetura de sistemas, code review profundo, prompt engineering, AI governance, pensamento estratégico, context engineering e aprendizado contínuo. Tech leads estão se tornando 'AI orchestrators', gerenciando 3-5 devs e 10-20 agentes especializados. O roadmap é claro: domine ferramentas de Agentic AI, desenvolva pensamento arquitetural, e lidere a transformação. A IA não substitui desenvolvedores — amplifica quem abraça a mudança. Como você está se preparando para esse novo papel? 🚀</p>",
+            "image": [
+              {
+                "id": "img-fb-feed-0",
+                "path": "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260207_novo_papel_desenvolvedor_2026/social-media/20260207102439-feed-post-1-title.jpg"
+              },
+              {
+                "id": "img-fb-feed-1",
+                "path": "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260207_novo_papel_desenvolvedor_2026/social-media/20260207102439-feed-post-2-summary-short.jpg"
+              }
+            ]
+          }
+        ],
+        "settings": {
+          "__type": "facebook",
+          "url": "https://www.eltonjose.com.br/blogs/20260207_novo_papel_desenvolvedor_2026"
+        }
       }
     ]
   }

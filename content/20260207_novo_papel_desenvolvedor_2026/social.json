@@ -1,32 +1,34 @@
 {
   "meta": {
     "version": "1.0",
-    "last_updated": "2026-02-06",
+    "last_updated": "2026-02-07",
     "linked_post": "index.mdx"
   },
   "promotion": {
-    "summary_short": "Dev em 2026: Crise ou Evolução? 🚀 O papel do desenvolvedor está mudando radicalmente. Deixe de ser um 'coder' e torne-se um Arquiteto de Soluções com IA.",
-    "summary_professional": "Como será ser um desenvolvedor em 2026? 🤔\n\nCom a ascensão da IA Generativa e Agentes Autônomos, o dia a dia de escrever boilerplate está com os dias contados. Mas isso não é o fim da profissão - é uma evolução necessária.\n\nO novo perfil, o \"AI-Augmented Developer\", foca menos em sintaxe e mais em:\n✅ Arquitetura de Sistemas\n✅ Design de Prompts e Orquestração\n✅ Review de Código Gerado por IA\n✅ Resolução de Problemas Complexos\n\nNeste artigo, discuto as habilidades essenciais para sobreviver e prosperar nessa nova era. A adaptação não é opcional.\n\nVocê está pronto para evoluir?",
+    "summary_short": "Explore a transformação da carreira de desenvolvedor na era da IA. Descubra como o paradoxo 'AI lowers the barrier, raises the bar' está redefinindo habilidades essenciais, o shift de individual contributor para orquestrador de equipes humano-agente, e o roadmap de upskilling para prosperar em 2026.",
+    "summary_professional": "Em 2026, desenvolvedores estão passando por uma transformação radical. O paradoxo 'AI lowers the barrier, raises the bar' está redefinindo a carreira: enquanto IA democratiza programação, eleva o padrão de excelência. Hoje, o diferencial não é escrever código, mas sim arquitetar sistemas, revisar criticamente código gerado por IA e orquestrar equipes mistas de humanos e agentes autônomos. As 7 habilidades críticas são: arquitetura de sistemas, code review profundo, prompt engineering, AI governance, pensamento estratégico, context engineering e aprendizado contínuo. Tech leads estão se tornando 'AI orchestrators', gerenciando 3-5 devs e 10-20 agentes especializados. O roadmap é claro: domine ferramentas de Agentic AI, desenvolva pensamento arquitetural, e lidere a transformação. A IA não substitui desenvolvedores — amplifica quem abraça a mudança. Como você está se preparando para esse novo papel? 🚀",
     "hashtags": [
-      "#CareerDevelopment",
-      "#SoftwareEngineering",
-      "#AI",
-      "#FutureOfWork",
-      "#TechCareers",
-      "#DeveloperLife"
+      "#CarreiraDesenvolvedor",
+      "#AI-AugmentedDevelopment",
+      "#TechLead",
+      "#ArquiteturadeSoftware",
+      "#Upskilling",
+      "#Desenvolvedor2026"
     ],
     "twitter_thread": [
-      "2026 está logo ali. E o trabalho de dev como conhecemos hoje não existirá mais. 😱👉",
-      "Esquecer crase ou ponto-e-vírgula? Coisa do passado. A IA cuida da sintaxe. O seu valor agora está na LÓGICA e no DESIGN DO SISTEMA.",
-      "O 'Junior Developer' que só copia e cola vai sofrer. O 'Junior' que sabe usar IA para entregar como Pleno vai voar.",
-      "Hard Skills do futuro: Arquitetura, Segurança, Design de Sistemas, e claro, AI Literacy.",
-      "Soft Skills nunca foram tão Hard. Comunicação, entendimento de negócio e pensamento crítico são o que a IA ainda não replica bem.",
-      "Se você ainda está decorando sintaxe de framework, pare agora. Foque em fundamentos e em como alavancar a IA.",
-      "Quer saber como se preparar? Leia meu guia completo sobre o Desenvolvedor de 2026. 👇"
+      "🧵 A era de ouro do desenvolvedor não acabou. Na verdade, está apenas começando. Mas o jogo mudou completamente. Aqui está o que ninguém está te contando sobre 2026: 👇",
+      "1/ O paradoxo que define 2026: IA democratiza programação (qualquer um gera código), mas ELEVA a barra do que significa ser excelente. O diferencial não é mais 'escrever código' — é fazer as perguntas certas.",
+      "2/ Desenvolvedor A: usa ChatGPT, implementa rápido, funciona. Desenvolvedor B: analisa arquitetura, valida segurança, considera compliance, documenta decisões. Quem tem futuro em 2026?",
+      "3/ Code review se tornou mais crítico que habilidade de digitação. Com 90% do código gerado por IA, sua capacidade de revisar criticamente é o que separa quem prospera de quem fica para trás.",
+      "4/ As 7 habilidades que importam agora: Arquitetura de sistemas, Code review profundo, Prompt engineering, AI governance, Pensamento estratégico, Context engineering, Aprendizado contínuo.",
+      "5/ Tech leads estão evoluindo para 'AI orchestrators'. Nova realidade: 3-5 devs + 10-20 agentes autônomos (coding, testing, security, docs). Resultado: 3x throughput, 40% menos bugs.",
+      "6/ Mindset de 2026: IA não é ameaça, é superpoder. Desenvolvedores que abraçam IA são 10x mais produtivos. Quem vê como ameaça está lutando uma batalha perdida.",
+      "7/ Roadmap prático: Fase 1 → domine ferramentas (Cursor, Copilot). Fase 2 → desenvolva arquitetura e AI governance. Fase 3 → torne-se AI orchestrator e líder técnico.",
+      "8/ Verdade final: IA não substitui desenvolvedores. Amplifica quem abraça mudança. Deixa para trás quem resiste. A diferença não é talento — é mindset e adaptabilidade. 🚀"
     ]
   },
   "repost_optimization": {
-    "og_title_variant": "O Fim do 'Coder' e o Início do Arquiteto de IA",
+    "og_title_variant": "",
     "pinterest_image": ""
   },
   "automation": {

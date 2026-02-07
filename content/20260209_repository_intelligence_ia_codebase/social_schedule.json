@@ -1,0 +1,139 @@
+[
+  {
+    "type": "schedule",
+    "date": "2026-02-09T09:00:00Z",
+    "shortLink": false,
+    "tags": [],
+    "posts": [
+      {
+        "integration": {
+          "id": "cmlb2cgel0007ph6qtxyuu7fp"
+        },
+        "value": [
+          {
+            "content": "",
+            "image": [
+              {
+                "id": "img-story-0",
+                "path": "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260209_repository_intelligence_ia_codebase/social-media/20260207124457-story-cover.jpg"
+              },
+              {
+                "id": "img-story-1",
+                "path": "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260209_repository_intelligence_ia_codebase/social-media/20260207124457-story-tweet-1.jpg"
+              },
+              {
+                "id": "img-story-2",
+                "path": "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260209_repository_intelligence_ia_codebase/social-media/20260207124457-story-tweet-10.jpg"
+              },
+              {
+                "id": "img-story-3",
+                "path": "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260209_repository_intelligence_ia_codebase/social-media/20260207124457-story-tweet-11.jpg"
+              },
+              {
+                "id": "img-story-4",
+                "path": "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260209_repository_intelligence_ia_codebase/social-media/20260207124457-story-tweet-2.jpg"
+              },
+              {
+                "id": "img-story-5",
+                "path": "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260209_repository_intelligence_ia_codebase/social-media/20260207124457-story-tweet-3.jpg"
+              },
+              {
+                "id": "img-story-6",
+                "path": "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260209_repository_intelligence_ia_codebase/social-media/20260207124457-story-tweet-4.jpg"
+              },
+              {
+                "id": "img-story-7",
+                "path": "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260209_repository_intelligence_ia_codebase/social-media/20260207124457-story-tweet-5.jpg"
+              },
+              {
+                "id": "img-story-8",
+                "path": "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260209_repository_intelligence_ia_codebase/social-media/20260207124457-story-tweet-6.jpg"
+              },
+              {
+                "id": "img-story-9",
+                "path": "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260209_repository_intelligence_ia_codebase/social-media/20260207124457-story-tweet-7.jpg"
+              },
+              {
+                "id": "img-story-10",
+                "path": "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260209_repository_intelligence_ia_codebase/social-media/20260207124457-story-tweet-8.jpg"
+              },
+              {
+                "id": "img-story-11",
+                "path": "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260209_repository_intelligence_ia_codebase/social-media/20260207124457-story-tweet-9.jpg"
+              }
+            ]
+          }
+        ],
+        "settings": {
+          "__type": "instagram",
+          "post_type": "story"
+        }
+      }
+    ]
+  },
+  {
+    "type": "schedule",
+    "date": "2026-02-09T22:00:00Z",
+    "shortLink": false,
+    "tags": [],
+    "posts": [
+      {
+        "integration": {
+          "id": "cmlb2cgel0007ph6qtxyuu7fp"
+        },
+        "value": [
+          {
+            "content": "<p>🧠 THREAD: Repository Intelligence — A IA que entende seu código INTEIRO está mudando tudo.</p><p>Imagine refatorar 500 mil linhas de código em 2 dias ao invés de semanas. Impossível? Não com Repository Intelligence.</p><p>Não é mais sobre autocomplete ou gerar snippets. É sobre IA que compreende arquitetura completa, rastreia dependências entre módulos e propõe mudanças coordenadas em dezenas de arquivos simultaneamente.</p><p>🎯 O Salto Qualitativo:</p><p>• Code Completion (2015): Sugere próxima linha</p><p>• Code Generation (2021): Cria funções isoladas</p><p>• Repository Intelligence (2026): Entende TODO o codebase</p><p>Resultado? Refatoração 75% mais rápida. Debugging 95% mais eficiente. Onboarding 80% mais rápido.</p><p>🛠️ Ferramentas que estão liderando:</p><p>• Cursor: Autonomia total com Agent Mode</p><p>• Cody (Sourcegraph): Especialista em repos gigantes</p><p>• Copilot Workspace: Integração nativa com GitHub</p><p>• Windsurf: Foco em 'flow state' de desenvolvimento</p><p>• Antigravity: Agentic AI com mínima supervisão</p><p>💡 Casos de Uso com ROI Imediato:</p><p>1️⃣ Refatoração Angular → React em 3-4 semanas (vs 4-6 meses)</p><p>2️⃣ Debugging de bugs intermitentes em 4-6 horas (vs 1-2 semanas)</p><p>3️⃣ Code review 4x mais rápido e 60% mais efetivo</p><p>4️⃣ Onboarding de devs em 1-2 semanas (vs 2-3 meses)</p><p>5️⃣ Documentação sempre atualizada automaticamente</p><p>🚀 Como começar esta semana:</p><p>Segunda: Escolha sua ferramenta (recomendo Cursor)</p><p>Terça: Configure e experimente queries simples</p><p>Quarta: Delegue uma refatoração pequena</p><p>Quinta: Use para debugging complexo</p><p>Sexta: Revise e ajuste seu workflow</p><p>A verdade incoveniente?</p><p>\"Em 2 anos, não contratarei desenvolvedores que não sabem usar Repository Intelligence. É como contratar alguém que não sabe usar Git em 2020.\" — CTO de unicórnio</p><p>O futuro do desenvolvimento é contextual, colaborativo e amplificado por IA.</p><p>E esse futuro JÁ CHEGOU. 🚀</p><p>#RepositoryIntelligence #Cursor #Cody #AI #Desenvolvimento #Codebase #Refatoração #Productivity #DeveloperTools #FutureOfCoding</p>",
+            "image": [
+              {
+                "id": "img-ig-feed-0",
+                "path": "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260209_repository_intelligence_ia_codebase/social-media/20260207124457-feed-post-1-title.jpg"
+              },
+              {
+                "id": "img-ig-feed-1",
+                "path": "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260209_repository_intelligence_ia_codebase/social-media/20260207124457-feed-post-2-summary-short.jpg"
+              }
+            ]
+          }
+        ],
+        "settings": {
+          "__type": "instagram",
+          "post_type": "post",
+          "collaborators": []
+        }
+      }
+    ]
+  },
+  {
+    "type": "schedule",
+    "date": "2026-02-09T22:00:00Z",
+    "shortLink": false,
+    "tags": [],
+    "posts": [
+      {
+        "integration": {
+          "id": "cmlb4asmd000bph6qkv1tygtb"
+        },
+        "value": [
+          {
+            "content": "<p>🧠 THREAD: Repository Intelligence — A IA que entende seu código INTEIRO está mudando tudo.</p><p>Imagine refatorar 500 mil linhas de código em 2 dias ao invés de semanas. Impossível? Não com Repository Intelligence.</p><p>Não é mais sobre autocomplete ou gerar snippets. É sobre IA que compreende arquitetura completa, rastreia dependências entre módulos e propõe mudanças coordenadas em dezenas de arquivos simultaneamente.</p><p>🎯 O Salto Qualitativo:</p><p>• Code Completion (2015): Sugere próxima linha</p><p>• Code Generation (2021): Cria funções isoladas</p><p>• Repository Intelligence (2026): Entende TODO o codebase</p><p>Resultado? Refatoração 75% mais rápida. Debugging 95% mais eficiente. Onboarding 80% mais rápido.</p><p>🛠️ Ferramentas que estão liderando:</p><p>• Cursor: Autonomia total com Agent Mode</p><p>• Cody (Sourcegraph): Especialista em repos gigantes</p><p>• Copilot Workspace: Integração nativa com GitHub</p><p>• Windsurf: Foco em 'flow state' de desenvolvimento</p><p>• Antigravity: Agentic AI com mínima supervisão</p><p>💡 Casos de Uso com ROI Imediato:</p><p>1️⃣ Refatoração Angular → React em 3-4 semanas (vs 4-6 meses)</p><p>2️⃣ Debugging de bugs intermitentes em 4-6 horas (vs 1-2 semanas)</p><p>3️⃣ Code review 4x mais rápido e 60% mais efetivo</p><p>4️⃣ Onboarding de devs em 1-2 semanas (vs 2-3 meses)</p><p>5️⃣ Documentação sempre atualizada automaticamente</p><p>🚀 Como começar esta semana:</p><p>Segunda: Escolha sua ferramenta (recomendo Cursor)</p><p>Terça: Configure e experimente queries simples</p><p>Quarta: Delegue uma refatoração pequena</p><p>Quinta: Use para debugging complexo</p><p>Sexta: Revise e ajuste seu workflow</p><p>A verdade incoveniente?</p><p>\"Em 2 anos, não contratarei desenvolvedores que não sabem usar Repository Intelligence. É como contratar alguém que não sabe usar Git em 2020.\" — CTO de unicórnio</p><p>O futuro do desenvolvimento é contextual, colaborativo e amplificado por IA.</p><p>E esse futuro JÁ CHEGOU. 🚀</p><p>#RepositoryIntelligence #Cursor #Cody #AI #Desenvolvimento #Codebase #Refatoração #Productivity #DeveloperTools #FutureOfCoding</p>",
+            "image": [
+              {
+                "id": "img-fb-feed-0",
+                "path": "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260209_repository_intelligence_ia_codebase/social-media/20260207124457-feed-post-1-title.jpg"
+              },
+              {
+                "id": "img-fb-feed-1",
+                "path": "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260209_repository_intelligence_ia_codebase/social-media/20260207124457-feed-post-2-summary-short.jpg"
+              }
+            ]
+          }
+        ],
+        "settings": {
+          "__type": "facebook",
+          "url": "https://www.eltonjose.com.br/blogs/20260209_repository_intelligence_ia_codebase"
+        }
+      }
+    ]
+  }
+]

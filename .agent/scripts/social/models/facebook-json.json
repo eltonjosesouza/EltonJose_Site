@@ -1,0 +1,28 @@
+{
+    "type": "schedule",
+    "date": "2024-12-14T10:00:00.000Z",
+    "shortLink": false,
+    "tags": [],
+    "posts": [
+        {
+            "integration": {
+                "id": "your-facebook-integration-id"
+            },
+            "value": [
+                {
+                    "content": "Beautiful sunset from our office! 🌅",
+                    "image": [
+                        {
+                            "id": "img-123",
+                            "path": "https://uploads.postiz.com/sunset.jpg"
+                        }
+                    ]
+                }
+            ],
+            "settings": {
+                "__type": "facebook",
+                "url": "https://example.com/blog/social-media-automation"
+            }
+        }
+    ]
+}

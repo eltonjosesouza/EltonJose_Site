@@ -5,37 +5,43 @@
     "date": "2026-02-05T09:00:00Z",
     "postsAndComments": [
       {
-        "content": "Novo Post! Link na bio 🔗",
+        "content": "Novo post! Veja o link na bio.",
         "attachments": [
-          "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260205_agentic_ai_revolucao_desenvolvimento/social-media/story-cover.jpg",
-          "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260205_agentic_ai_revolucao_desenvolvimento/social-media/story-tweet-1.jpg",
-          "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260205_agentic_ai_revolucao_desenvolvimento/social-media/story-tweet-2.jpg",
-          "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260205_agentic_ai_revolucao_desenvolvimento/social-media/story-tweet-3.jpg",
-          "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260205_agentic_ai_revolucao_desenvolvimento/social-media/story-tweet-4.jpg",
-          "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260205_agentic_ai_revolucao_desenvolvimento/social-media/story-tweet-5.jpg",
-          "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260205_agentic_ai_revolucao_desenvolvimento/social-media/story-tweet-6.jpg",
-          "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260205_agentic_ai_revolucao_desenvolvimento/social-media/story-tweet-7.jpg"
+          "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260205_agentic_ai_revolucao_desenvolvimento/social-media/20260207014309-story-cover.jpg",
+          "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260205_agentic_ai_revolucao_desenvolvimento/social-media/20260207014309-story-tweet-1.jpg",
+          "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260205_agentic_ai_revolucao_desenvolvimento/social-media/20260207014309-story-tweet-2.jpg",
+          "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260205_agentic_ai_revolucao_desenvolvimento/social-media/20260207014309-story-tweet-3.jpg",
+          "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260205_agentic_ai_revolucao_desenvolvimento/social-media/20260207014309-story-tweet-4.jpg",
+          "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260205_agentic_ai_revolucao_desenvolvimento/social-media/20260207014309-story-tweet-5.jpg",
+          "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260205_agentic_ai_revolucao_desenvolvimento/social-media/20260207014309-story-tweet-6.jpg",
+          "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260205_agentic_ai_revolucao_desenvolvimento/social-media/20260207014309-story-tweet-7.jpg",
+          "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260205_agentic_ai_revolucao_desenvolvimento/social-media/20260207014309-story-tweet-8.jpg"
         ]
       }
     ],
     "settings": [
       {
         "key": "media_type",
-        "value": "STORY"
+        "value": "story"
       }
     ]
   },
-
   {
     "integrationId": "cmlb2cgel0007ph6qtxyuu7fp",
     "type": "schedule",
     "date": "2026-02-05T22:00:00Z",
     "postsAndComments": [
       {
-        "content": "<p>Estamos testemunhando uma mudança de paradigma no desenvolvimento de software: de ferramentas passivas para Agentes Autônomos (Agentic AI).</p><p>Não se trata mais apenas de 'Code Generation'. Agentes como Devin, Cline e OpenHands não apenas escrevem código; eles planejam, executam, testam e corrigem bugs de forma autônoma.</p><p>Neste artigo, exploro:</p><p>🔹 A diferença entre LLMs passivos e Agentes Ativos</p><p>🔹 O impacto real na produtividade (não é apenas velocidade, é autonomia)</p><p>🔹 Como preparar sua carreira para essa nova era</p><p>A pergunta não é se a IA vai substituir programadores, mas quais programadores saberão orquestrar essa nova força de trabalho digital.</p><p>Leia a análise completa e prepare-se para o futuro.</p>",
-        "attachments": [
-          "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260205_agentic_ai_revolucao_desenvolvimento/social-media/feed-post-1-title.jpg",
-          "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260205_agentic_ai_revolucao_desenvolvimento/social-media/feed-post-2-summary-short.jpg"
+        "content": "<p>A Agentic AI está redefinindo o desenvolvimento de software em 2026. Diferente de assistentes tradicionais, agentes autônomos como GitHub Copilot Agent, Cursor e Windsurf planejam, executam e refinam tarefas complexas independentemente. O impacto é impressionante: refatorações que levavam semanas agora são concluídas em dias, com até 90% do código gerado por IA. Mas a verdadeira transformação vai além da velocidade — estamos evoluindo de codificadores para arquitetos de sistemas inteligentes. O desenvolvedor de sucesso em 2026 será aquele que domina a arte de orquestrar agentes, revisar criticamente código gerado e pensar estrategicamente. Com 40-80% das aplicações enterprise adotando agentes AI, a questão não é mais 'se' você usará, mas 'como' integrará essa tecnologia ao seu workflow. Como você está se preparando para essa mudança? 🧵</p>",
+        "image": [
+          {
+            "id": "img-20260207014309-feed-",
+            "path": "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260205_agentic_ai_revolucao_desenvolvimento/social-media/20260207014309-feed-post-1-title.jpg"
+          },
+          {
+            "id": "img-20260207014309-feed-",
+            "path": "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260205_agentic_ai_revolucao_desenvolvimento/social-media/20260207014309-feed-post-2-summary-short.jpg"
+          }
         ]
       }
     ],
@@ -47,18 +53,22 @@
     "date": "2026-02-05T22:00:00Z",
     "postsAndComments": [
       {
-        "content": "<p>Estamos testemunhando uma mudança de paradigma no desenvolvimento de software: de ferramentas passivas para Agentes Autônomos (Agentic AI).</p><p>Não se trata mais apenas de 'Code Generation'. Agentes como Devin, Cline e OpenHands não apenas escrevem código; eles planejam, executam, testam e corrigem bugs de forma autônoma.</p><p>Neste artigo, exploro:</p><p>🔹 A diferença entre LLMs passivos e Agentes Ativos</p><p>🔹 O impacto real na produtividade (não é apenas velocidade, é autonomia)</p><p>🔹 Como preparar sua carreira para essa nova era</p><p>A pergunta não é se a IA vai substituir programadores, mas quais programadores saberão orquestrar essa nova força de trabalho digital.</p><p>Leia a análise completa e prepare-se para o futuro.</p>",
-        "attachments": [
-          "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260205_agentic_ai_revolucao_desenvolvimento/social-media/feed-post-1-title.jpg",
-          "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260205_agentic_ai_revolucao_desenvolvimento/social-media/feed-post-2-summary-short.jpg"
+        "content": "<p>A Agentic AI está redefinindo o desenvolvimento de software em 2026. Diferente de assistentes tradicionais, agentes autônomos como GitHub Copilot Agent, Cursor e Windsurf planejam, executam e refinam tarefas complexas independentemente. O impacto é impressionante: refatorações que levavam semanas agora são concluídas em dias, com até 90% do código gerado por IA. Mas a verdadeira transformação vai além da velocidade — estamos evoluindo de codificadores para arquitetos de sistemas inteligentes. O desenvolvedor de sucesso em 2026 será aquele que domina a arte de orquestrar agentes, revisar criticamente código gerado e pensar estrategicamente. Com 40-80% das aplicações enterprise adotando agentes AI, a questão não é mais 'se' você usará, mas 'como' integrará essa tecnologia ao seu workflow. Como você está se preparando para essa mudança? 🧵</p>",
+        "image": [
+          {
+            "id": "img-20260207014309-feed-",
+            "path": "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260205_agentic_ai_revolucao_desenvolvimento/social-media/20260207014309-feed-post-1-title.jpg"
+          },
+          {
+            "id": "img-20260207014309-feed-",
+            "path": "/Users/eltonjosedesouza/Development/blog/Nextjs-tailwindcss-blog-template/content/20260205_agentic_ai_revolucao_desenvolvimento/social-media/20260207014309-feed-post-2-summary-short.jpg"
+          }
         ]
       }
     ],
-    "settings": [
-      {
-        "key": "url",
-        "value": "https://www.eltonjose.com.br/blogs/20260205_agentic_ai_revolucao_desenvolvimento"
-      }
-    ]
+    "settings": {
+      "__type": "facebook",
+      "url": "https://www.eltonjose.com.br/blogs/20260205_agentic_ai_revolucao_desenvolvimento"
+    }
   }
 ]
